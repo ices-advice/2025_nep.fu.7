@@ -1,0 +1,25 @@
+Country	Season	Season type	Year	Stock	Area	Fleets	Effort	UnitEffort	Catch. kg	Catch Cat.	Report cat.	Discards Imported Or Raised
+UK (England)	2	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	750	kWd	635.80	Landings	R-Reported	Imported
+UK(Scotland)	3	Quarter	2024	nep.fu.7	FU.7	OTB_CRU_70-99_0_0_all	149113	kWd	5140.00	Discards	A-All - reported, nonre	Imported
+Denmark	1	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	-9	NA	0.00	Discards	R-Reported	Imported
+UK(Scotland)	2	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	1530591	kWd	951770.00	Landings	A-All - reported, nonre	Imported
+UK(Scotland)	1	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	1354934	kWd	3120.00	Discards	A-All - reported, nonre	Imported
+Denmark	4	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	-9	NA	0.00	Discards	R-Reported	Imported
+UK (England)	1	Quarter	2024	nep.fu.7	FU.7	OTB_CRU_70-99_0_0_all	1341	kWd	778.00	Landings	R-Reported	Imported
+UK(Scotland)	3	Quarter	2024	nep.fu.7	FU.7	OTB_CRU_70-99_0_0_all	149113	kWd	276370.00	Landings	A-All - reported, nonre	Imported
+Denmark	1	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	-9	NA	30.00	Landings	R-Reported	Imported
+UK (England)	1	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	3360	kWd	1881.50	Landings	R-Reported	Imported
+UK(Scotland)	2	Quarter	2024	nep.fu.7	FU.7	OTB_CRU_70-99_0_0_all	66065	kWd	106225.00	Landings	A-All - reported, nonre	Imported
+UK(Scotland)	4	Quarter	2024	nep.fu.7	FU.7	OTB_CRU_70-99_0_0_all	93733	kWd	131360.00	Landings	A-All - reported, nonre	Imported
+UK(Scotland)	3	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	2141738	kWd	15850.00	Discards	A-All - reported, nonre	Imported
+UK(Scotland)	1	Quarter	2024	nep.fu.7	FU.7	OTB_CRU_70-99_0_0_all	52837	kWd	32227.00	Landings	A-All - reported, nonre	Imported
+France	2024	Year	2024	nep.fu.7	FU.7	MIS_MIS_0_0_0	-9	kWd	0.00	Landings	R-Reported	Imported
+UK(Scotland)	3	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	2141738	kWd	2256130.00	Landings	A-All - reported, nonre	Imported
+UK(Scotland)	4	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	2089485	kWd	12320.00	Discards	A-All - reported, nonre	Imported
+Denmark	3	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	-9	NA	1.00	Discards	R-Reported	Imported
+UK(Scotland)	2	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	1530591	kWd	3820.00	Discards	A-All - reported, nonre	Imported
+UK(Scotland)	4	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	2089485	kWd	1009890.00	Landings	A-All - reported, nonre	Imported
+Denmark	3	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	-9	NA	49.00	Landings	R-Reported	Imported
+Germany	3	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	9799	kWd	131.00	Landings	R-Reported	Imported
+UK(Scotland)	1	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	1354934	kWd	364590.00	Landings	A-All - reported, nonre	Imported
+Denmark	4	Quarter	2024	nep.fu.7	FU.7	OTB_DEF_>=120_0_0_all	-9	NA	30.00	Landings	R-Reported	Imported
